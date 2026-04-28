@@ -1,7 +1,7 @@
 # JAVA_MINIPROJECT
 
 
-collegefeepayment-
+collegefeepayment-https://github.com/paviachar/JAVA_MINIPROJECT/blob/main/index.jsp.png
 
 Addpayment - 
 
