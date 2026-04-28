@@ -3,7 +3,7 @@
 
 collegefeepayment-https://github.com/paviachar/JAVA_MINIPROJECT/blob/main/index.jsp.png
 
-Addpayment - 
+Addpayment - https://github.com/paviachar/JAVA_MINIPROJECT/blob/main/feepaymentadd.png
 
 viewpayment-
 
