@@ -7,7 +7,7 @@ Addpayment - https://github.com/paviachar/JAVA_MINIPROJECT/blob/main/feepaymenta
 
 viewpayment-https://github.com/paviachar/JAVA_MINIPROJECT/blob/main/feepaymentdisplay1.png   https://github.com/paviachar/JAVA_MINIPROJECT/blob/main/feepaymentdisplay2.png
 
-update-
+update-https://github.com/paviachar/JAVA_MINIPROJECT/blob/main/feepaymentupdate.png
 
 Delete-
 
