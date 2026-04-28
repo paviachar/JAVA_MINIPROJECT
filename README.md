@@ -11,4 +11,4 @@ update-https://github.com/paviachar/JAVA_MINIPROJECT/blob/main/feepaymentupdate.
 
 Delete-https://github.com/paviachar/JAVA_MINIPROJECT/blob/main/feepaymentdelete.png
 
-Reports-
+Reports-https://github.com/paviachar/JAVA_MINIPROJECT/blob/main/report_form.png
