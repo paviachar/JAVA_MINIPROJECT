@@ -9,6 +9,6 @@ viewpayment-https://github.com/paviachar/JAVA_MINIPROJECT/blob/main/feepaymentdi
 
 update-https://github.com/paviachar/JAVA_MINIPROJECT/blob/main/feepaymentupdate.png
 
-Delete-
+Delete-https://github.com/paviachar/JAVA_MINIPROJECT/blob/main/feepaymentdelete.png
 
 Reports-
